@@ -11,4 +11,5 @@ Personal Repository for all solutions to the Practice Python website questions
 
 <ul>
 
-<li> <p> <a href='https://www.practicepython.org/exercise/2014/01/29/01-character-input.html'> 01: Character Input </p>
+<li> <h4> <a href='https://www.practicepython.org/exercise/2014/01/29/01-character-input.html'> 01: Character Input </h4> </li>
+<li> <h4> <a href='https://www.practicepython.org/exercise/2014/02/05/02-odd-or-even.html'> 02: Odd Or Even </h4> </li>
