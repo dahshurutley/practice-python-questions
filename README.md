@@ -11,4 +11,4 @@ Personal Repository for all solutions to the Practice Python website questions
 
 <ul>
 
-<li> <p> <a href='https://www.practicepython.org/exercise/2014/01/29/01-character-input.html'> </p>
+<li> <p> <a href='https://www.practicepython.org/exercise/2014/01/29/01-character-input.html'> 01: Character Input </p>
