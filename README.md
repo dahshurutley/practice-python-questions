@@ -37,6 +37,7 @@ Personal Repository for all solutions to the Practice Python website questions
   <h4> <a href='https://www.practicepython.org/exercise/2014/05/28/16-password-generator.html'> 016: Password Generator</h4>
   <h4> <a href='https://www.practicepython.org/exercise/2014/06/06/17-decode-a-web-page.html'> 017: Decode A Web Page </h4>
   <h4> <a href='https://www.practicepython.org/exercise/2014/07/05/18-cows-and-bulls.html'> 018: Cows And Bulls </h4>
+
 </details>
 
 <br>
