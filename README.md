@@ -27,7 +27,7 @@ Personal Repository for all solutions to the Practice Python website questions
   ## Questions 013 - 018
 
   <h4> <a href='https://www.practicepython.org/exercise/2014/04/30/13-fibonacci.html'> 013: Fibonacci</h4>
-  <h4> <a href='https://www.practicepython.org/exercise/2014/05/15/14-list-remove-duplicates.html'> 014: List Remove Duplicates</h4>
+  <h4> <a href='https://www.practicepython.org/exercise/2014/05/15/14-list-remove-duplicates.html'> 014: List Remove Duplicates<h4>
   <h4> <a href='https://www.practicepython.org/exercise/2014/05/21/15-reverse-word-order.html'> 015: Reverse Word Order</h4>
   <h4> <a href='https://www.practicepython.org/exercise/2014/05/28/16-password-generator.html'> 016: Password Generator</h4>
   <h4> <a href='https://www.practicepython.org/exercise/2014/06/06/17-decode-a-web-page.html'> 017: Decode A Web Page </h4>
