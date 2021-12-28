@@ -46,8 +46,8 @@ Personal Repository for all solutions to the Practice Python website questions
 
 <details>
   <summary>Click to expand!</summary>
-
-    
+  <br>
+  
   ## Questions 019 - 024
 
   <h4> <a href='https://www.practicepython.org/exercise/2014/07/14/19-decode-a-web-page-two.html'> 019: Decode A Webpage </h4>
