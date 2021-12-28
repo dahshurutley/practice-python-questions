@@ -35,7 +35,7 @@ Personal Repository for all solutions to the Practice Python website questions
 </details>
 
 # Questions 019 - 036
-<details>
+<Expand>
   
   
   <h4> <a href='https://www.practicepython.org/exercise/2014/07/14/19-decode-a-web-page-two.html'> 019: Decode A Webpage </h4>
