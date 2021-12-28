@@ -1,6 +1,8 @@
 
 # Practice Python Questions!
 Personal Repository for all solutions to the Practice Python website questions 
+Please note not all questions have Extras!
+
 
 # Website Link
 
