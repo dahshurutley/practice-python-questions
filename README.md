@@ -5,7 +5,7 @@ Personal Repository for all solutions to the Practice Python website questions
 <ul>
 <li> https://www.practicepython.org/ </li> 
 </ul>
-<br>
+
 
 <h1> Questions </h1>
 
