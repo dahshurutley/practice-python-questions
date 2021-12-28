@@ -1,7 +1,12 @@
-# A collapsible section containing markdown
-<details>
-  <summary>Click to expand!</summary>
+
+# Practice Python Questions!
+Personal Repository for all solutions to the Practice Python website questions 
+
   
+# Questions 01 - 018
+<details>
+  <summary> Click to expand! </summary>
+   
   ## Questions 01 - 06
   <h4> <a href='https://www.practicepython.org/exercise/2014/01/29/01-character-input.html'> 01: Character Input </h4> 
   <h4> <a href='https://www.practicepython.org/exercise/2014/02/05/02-odd-or-even.html'> 02: Odd Or Even </h4> 
@@ -19,22 +24,22 @@
   <h4> <a href='https://www.practicepython.org/exercise/2014/04/16/11-check-primality-functions.html'> 011: Check Primality Functions </h4>
   <h4> <a href='https://www.practicepython.org/exercise/2014/04/25/12-list-ends.html'> 012: List Ends</h4>
 
+
   ## Questions 013 - 018
-  
+
   <h4> <a href='https://www.practicepython.org/exercise/2014/04/30/13-fibonacci.html'> 013: Fibonacci</h4>
   <h4> <a href='https://www.practicepython.org/exercise/2014/05/15/14-list-remove-duplicates.html'> 014: List Remove Duplicates<h4>
   <h4> <a href='https://www.practicepython.org/exercise/2014/05/21/15-reverse-word-order.html'> 015: Reverse Word Order</h4>
   <h4> <a href='https://www.practicepython.org/exercise/2014/05/28/16-password-generator.html'> 016: Password Generator</h4>
   <h4> <a href='https://www.practicepython.org/exercise/2014/06/06/17-decode-a-web-page.html'> 017: Decode A Web Page </h4>
   <h4> <a href='https://www.practicepython.org/exercise/2014/07/05/18-cows-and-bulls.html'> 018: Cows And Bulls </h4>
-
 </details>
 
-# A collapsible section containing code
-<details>
-  <summary>Click to expand!</summary>
+# Questions 019 - 036
+<details> 
+<summary> Click To Expand </summary>
   
-    ## Questions 019 - 024
+  ## Questions 019 - 024
 
   <h4> <a href='https://www.practicepython.org/exercise/2014/07/14/19-decode-a-web-page-two.html'> 019: Decode A Webpage </h4>
   <h4> <a href='https://www.practicepython.org/exercise/2014/11/11/20-element-search.html'> 020: Element Search</h4>
@@ -60,7 +65,6 @@
   <h4> <a href='https://www.practicepython.org/exercise/2017/02/06/34-birthday-json.html'> 034: Birthday Json</h4>
   <h4> <a href='https://www.practicepython.org/exercise/2017/02/28/35-birthday-months.html'> 035: Birthday Months</h4>
   <h4> <a href='https://www.practicepython.org/exercise/2017/04/02/36-birthday-plots.html'> 036: Birthday Plots</h4>
-
 
 </details>
 
