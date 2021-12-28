@@ -35,7 +35,8 @@ Personal Repository for all solutions to the Practice Python website questions
 </details>
 
 # Questions 019 - 036
-<details> <summary> Click To Expand </summary>
+<details> 
+<summary> Click To Expand </summary>
   
   ## Questions 019 - 024
 
