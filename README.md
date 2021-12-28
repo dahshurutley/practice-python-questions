@@ -46,7 +46,8 @@ Personal Repository for all solutions to the Practice Python website questions
 
 <details>
   
-  <summary> Click to expand </summary>
+  <summary>Click to expand!</summary>
+
   <br>
     
   ## Questions 019 - 024
