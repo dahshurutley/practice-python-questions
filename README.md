@@ -4,7 +4,7 @@ Personal Repository for all solutions to the Practice Python website questions
 
 # Website Link
 
-<ul> <li> https://www.practicepython.org/ <li> </ul>
+<ul> <li> https://www.practicepython.org/ </li> </ul>
   
 # Questions 01 - 018
 <details>
