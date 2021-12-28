@@ -1,17 +1,10 @@
 # Practice Python Questions!
 Personal Repository for all solutions to the Practice Python website questions 
-<h1> Link </h1> 
 
-<ul> <li> <h4> https://www.practicepython.org/ </h4> </li> </ul>
-<br>
-
-
-<h1> Questions 01 - 018 </h1>
-
-<details>
-  <summary> Click to expand! </summary>
   
-  <br>
+# A collapsible section containing markdown
+<details>
+  <summary>Click to expand!</summary>
   
   ## Questions 01 - 06
   <h4> <a href='https://www.practicepython.org/exercise/2014/01/29/01-character-input.html'> 01: Character Input </h4> 
@@ -39,14 +32,9 @@ Personal Repository for all solutions to the Practice Python website questions
   <h4> <a href='https://www.practicepython.org/exercise/2014/05/28/16-password-generator.html'> 016: Password Generator</h4>
   <h4> <a href='https://www.practicepython.org/exercise/2014/06/06/17-decode-a-web-page.html'> 017: Decode A Web Page </h4>
   <h4> <a href='https://www.practicepython.org/exercise/2014/07/05/18-cows-and-bulls.html'> 018: Cows And Bulls </h4>
-
 </details>
 
-<br>
-
-
-<h1> Questions 019 - 036 </h1>
-
+# A collapsible section containing code
 <details>
   <summary>Click to expand!</summary>
   
@@ -76,4 +64,4 @@ Personal Repository for all solutions to the Practice Python website questions
   <h4> <a href='https://www.practicepython.org/exercise/2017/04/02/36-birthday-plots.html'> 036: Birthday Plots</h4>
 
 </details>
-  
+
