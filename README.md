@@ -8,7 +8,7 @@ Personal Repository for all solutions to the Practice Python website questions
 <h1> Questions 01 - 018 </h1>
 
 <details>
-
+  <summary>Click to expand!</summary>
   <br>
   
   ## Questions 01 - 06
@@ -44,7 +44,7 @@ Personal Repository for all solutions to the Practice Python website questions
 <h1> Questions 019 - 036 </h1>
 
 <details>
-  <summary> Click to expand! </summary>
+  <summary>Click to expand!</summary>
 
     
   ## Questions 019 - 024
