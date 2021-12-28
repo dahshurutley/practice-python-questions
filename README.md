@@ -4,8 +4,8 @@ Personal Repository for all solutions to the Practice Python website questions
   
 # Questions 01 - 018
 <details>
-  <summary>Click to expand!</summary>
-  
+  <summary> Click to expand! </summary>
+   
   ## Questions 01 - 06
   <h4> <a href='https://www.practicepython.org/exercise/2014/01/29/01-character-input.html'> 01: Character Input </h4> 
   <h4> <a href='https://www.practicepython.org/exercise/2014/02/05/02-odd-or-even.html'> 02: Odd Or Even </h4> 
