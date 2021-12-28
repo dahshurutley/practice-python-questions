@@ -43,7 +43,9 @@ Personal Repository for all solutions to the Practice Python website questions
 <br>
 
 <h1> Questions 019 - 036 </h1>
+
 <details>
+  
   <summary> Click to expand </summary>
   <br>
     
@@ -73,6 +75,5 @@ Personal Repository for all solutions to the Practice Python website questions
   <h4> <a href='https://www.practicepython.org/exercise/2017/02/06/34-birthday-json.html'> 034: Birthday Json</h4>
   <h4> <a href='https://www.practicepython.org/exercise/2017/02/28/35-birthday-months.html'> 035: Birthday Months</h4>
   <h4> <a href='https://www.practicepython.org/exercise/2017/04/02/36-birthday-plots.html'> 036: Birthday Plots</h4>
-
 
 </details>
