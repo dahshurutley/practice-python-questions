@@ -8,7 +8,7 @@ Personal Repository for all solutions to the Practice Python website questions
   
 # Questions 01 - 018
 <details>
-    <summary> Click to expand! </summary>
+    
    
   ## Questions 01 - 06
   <h4> <a href='https://www.practicepython.org/exercise/2014/01/29/01-character-input.html'> 01: Character Input </h4> 
@@ -41,7 +41,7 @@ Personal Repository for all solutions to the Practice Python website questions
 
 # Questions 019 - 036
 <details> 
-    <summary>Click To Expand!</summary>
+    
   
   ## Questions 019 - 024
 
