@@ -35,9 +35,10 @@ Personal Repository for all solutions to the Practice Python website questions
   <h4> <a href='https://www.practicepython.org/exercise/2014/07/05/18-cows-and-bulls.html'> 018: Cows And Bulls </h4>
 </details>
 
+
 # Questions 019 - 036
 <details> 
-<summary> Click To Expand </summary>
+<summary>Click To Expand!</summary>
   
   ## Questions 019 - 024
 
