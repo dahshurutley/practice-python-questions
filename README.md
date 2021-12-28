@@ -2,7 +2,7 @@
 Personal Repository for all solutions to the Practice Python website questions 
 
   
-# A collapsible section containing markdown
+# Questions 01 - 018
 <details>
   <summary>Click to expand!</summary>
   
@@ -34,7 +34,7 @@ Personal Repository for all solutions to the Practice Python website questions
   <h4> <a href='https://www.practicepython.org/exercise/2014/07/05/18-cows-and-bulls.html'> 018: Cows And Bulls </h4>
 </details>
 
-# A collapsible section containing code
+# Questions 019 - 036
 <details>
   <summary>Click to expand!</summary>
   
