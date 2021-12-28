@@ -35,9 +35,10 @@ Personal Repository for all solutions to the Practice Python website questions
 </details>
 
 # Questions 019 - 036
-<Expand>
+<details> <summary> Click To Expand </summary>
   
-  
+  ## Questions 019 - 024
+
   <h4> <a href='https://www.practicepython.org/exercise/2014/07/14/19-decode-a-web-page-two.html'> 019: Decode A Webpage </h4>
   <h4> <a href='https://www.practicepython.org/exercise/2014/11/11/20-element-search.html'> 020: Element Search</h4>
   <h4> <a href='https://www.practicepython.org/exercise/2014/11/30/21-write-to-a-file.html'> 021: Write To A File</h4>
