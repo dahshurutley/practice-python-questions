@@ -5,7 +5,7 @@ Personal Repository for all solutions to the Practice Python website questions
 <ul> <li> <h4> https://www.practicepython.org/ </h4> </li> </ul>
 <br>
 
-<h1> Questions 01 - 016 </h1>
+<h1> Questions 01 - 018 </h1>
 
 <details>
   <summary>Click to expand!</summary>
@@ -36,8 +36,7 @@ Personal Repository for all solutions to the Practice Python website questions
   <h4> <a href='https://www.practicepython.org/exercise/2014/05/21/15-reverse-word-order.html'> 015: Reverse Word Order</h4>
   <h4> <a href='https://www.practicepython.org/exercise/2014/05/28/16-password-generator.html'> 016: Password Generator</h4>
   <h4> <a href='https://www.practicepython.org/exercise/2014/06/06/17-decode-a-web-page.html'> 017: Decode A Web Page </h4>
-  <h4> <a href='https://www.practicepython.org/exercise/2014/07/05/18-cows-and-bulls.html'> 018: Cows And Bulls</h4>
-
+  <h4> <a href='https://www.practicepython.org/exercise/2014/07/05/18-cows-and-bulls.html'> 018: Cows And Bulls </h4>
 </details>
 
 <br>
