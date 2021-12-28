@@ -5,7 +5,7 @@ Personal Repository for all solutions to the Practice Python website questions
 <ul> <li> <h4> https://www.practicepython.org/ </h4> </li> </ul>
 <br>
 
-# A collapsible section containing markdown
+
 <h1> Questions 01 - 018 </h1>
 
 <details>
@@ -44,7 +44,7 @@ Personal Repository for all solutions to the Practice Python website questions
 
 <br>
 
-# A collapsible section containing markdown
+
 <h1> Questions 019 - 036 </h1>
 
 <details>
