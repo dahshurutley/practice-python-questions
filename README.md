@@ -9,6 +9,7 @@ Personal Repository for all solutions to the Practice Python website questions
 
 <details>
   <summary>Click to expand!</summary>
+  
   <br>
   
   ## Questions 01 - 06
@@ -46,6 +47,7 @@ Personal Repository for all solutions to the Practice Python website questions
 
 <details>
   <summary>Click to expand!</summary>
+  
   <br>
   
   ## Questions 019 - 024
@@ -76,3 +78,4 @@ Personal Repository for all solutions to the Practice Python website questions
   <h4> <a href='https://www.practicepython.org/exercise/2017/04/02/36-birthday-plots.html'> 036: Birthday Plots</h4>
 
 </details>
+
