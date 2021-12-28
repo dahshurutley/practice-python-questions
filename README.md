@@ -6,8 +6,9 @@ Personal Repository for all solutions to the Practice Python website questions
 <li> https://www.practicepython.org/ </li> 
 </ul>
 
+<u> <br> </u>
 
-<h1> Questions </h1>
+<h1> Questions 01 - 016 </h1>
 
 <details>
   <summary>Click to expand!</summary>
@@ -19,9 +20,28 @@ Personal Repository for all solutions to the Practice Python website questions
   <h4> <a href='https://www.practicepython.org/exercise/2014/02/26/04-divisors.html'> 04: Divisors </h4>
   
 
-  ## Questions 05 - 09
+  ## Questions 05 - 08
     
   <h4> <a href='https://www.practicepython.org/exercise/2014/03/05/05-list-overlap.html'> 05: List Overlap </h4>
+  <h4> <a href='https://www.practicepython.org/exercise/2014/03/12/06-string-lists.html'> 06: String Lists </h4>
+  <h4> <a href='https://www.practicepython.org/exercise/2014/03/19/07-list-comprehensions.html'> 07: List Comprehensions </h4>
+  <h4> <a href='https://www.practicepython.org/exercise/2014/03/26/08-rock-paper-scissors.html'> 08: Rock Paper Scissors </h4>
+  
+  ## Questions 09 - 012
+
+  <h4> <a href='https://www.practicepython.org/exercise/2014/04/02/09-guessing-game-one.html'> 09: Guessing Game One</h4>
+  <h4> <a href='https://www.practicepython.org/exercise/2014/04/10/10-list-overlap-comprehensions.html'> 010: List Overlap Comprehensions </h4>
+  <h4> <a href='https://www.practicepython.org/exercise/2014/04/16/11-check-primality-functions.html'> 011: Check Primality Functions </h4>
+  <h4> <a href='https://www.practicepython.org/exercise/2014/04/25/12-list-ends.html'> 012: List Ends</h4>
+
+  ## Questions 013 - 016
+
+  <h4> <a href='https://www.practicepython.org/exercise/2014/04/30/13-fibonacci.html'> 013: Fibonacci</h4>
+  <h4> <a href='https://www.practicepython.org/exercise/2014/05/15/14-list-remove-duplicates.html'> 014: List Remove Duplicates</h4>
+  <h4> <a href='https://www.practicepython.org/exercise/2014/05/21/15-reverse-word-order.html'> 015: Reverse Word Order</h4>
+  <h4> <a href='https://www.practicepython.org/exercise/2014/05/28/16-password-generator.html'> 016: Password Generator</h4>
+
+  
 
   
 </details>
