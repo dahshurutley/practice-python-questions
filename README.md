@@ -2,7 +2,7 @@
 # Practice Python Questions!
 Personal Repository for all solutions to the Practice Python website questions 
 Please note not all questions have Extras!
-
+Please report any issues with my solutions! It really helps. 
 
 # Website Link
 
