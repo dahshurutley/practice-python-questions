@@ -18,24 +18,26 @@ counter = 0
 # clear user input upon each guess
 
 while True: 
-  user_input = str(input('Guess a 4 digit number'))
+  user_input = str(input('Guess a 4 digit number: '))
   guess  = [i for i in user_input]
   counter += 1
   
   for i in guess: 
-    if guess.index(i) in SOLUTION:
-      if guess.index(i) == SOLUTION.index(i):
-        cow += 1
-      else: 
-        bull += 1
-    if user_input == ''.join(SOLUTION):
-      if counter == 1:
-          print('You Have 4 cows!')
+      if i in SOLUTION:
+        if guess.index(i) == SOLUTION.index(i):
+          cow += 1
+          print(cow)
+        if guess.index(i) != SOLUTION.index(i):
+          bull += 1
+          print(bull)
+      if user_input == ''.join(SOLUTION):
+        if counter == 1:
+            print('You Have 4 cows!')
+            print(f'You have {bull} bulls!')
+        else: 
+          print(f'You Have {cow} cows!')
           print(f'You have {bull} bulls!')
-      else: 
-        print(f'You Have {cow} cows!')
-        print(f'You have {bull} bulls!')
-      sys.exit()
-      
+        sys.exit()
+        
         
         
