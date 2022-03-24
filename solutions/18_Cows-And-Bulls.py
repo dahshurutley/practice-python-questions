@@ -4,6 +4,7 @@
 
 
 import random
+import sys
 # Cow = Correct Placement 
 # Bull = Wrong Place Correct Guess
 NUM = random.randint(1000, 10000)
@@ -28,9 +29,13 @@ while True:
       else: 
         bull += 1
     if user_input == ''.join(SOLUTION):
-      print(f'You Have {cow} cows!')
-      print(f'You have {bull} bulls!')
-      break 
+      if counter == 1:
+          print('You Have 4 cows!')
+          print(f'You have {bull} bulls!')
+      else: 
+        print(f'You Have {cow} cows!')
+        print(f'You have {bull} bulls!')
+      sys.exit()
       
         
         
